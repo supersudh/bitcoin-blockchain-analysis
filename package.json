@@ -1,0 +1,12 @@
+{
+  "name": "bitcoin-blockchain-analysis",
+  "version": "1.0.0",
+  "main": "analysis.js",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  },
+  "scripts": {
+    "dev": "nodemon analysis.js"
+  }
+}
